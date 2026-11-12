@@ -2,7 +2,7 @@
 
   # Hey, I'm Dmitry (Burger) 👋
   
-  ### Frontend Developer & UI/UX Designer • Design Technologist
+  ### UI/UX Designer • Design Technologist • mini bro Developer
   
   *Bridging clean, high-performance web code with pixel-perfect design.*
 
