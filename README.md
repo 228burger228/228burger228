@@ -34,7 +34,7 @@
 | 🎨 **Design & Prepress Foundation** | Academic background in print & prepress (MGKEIT) — pixel-perfect typography, strict Swiss grid systems, and color theory |
 | 📜 **Official Recommendation** | Official appreciation letter from the CEO of **LLC «Хаус Гард»** ([smr.hgstroy.ru](https://smr.hgstroy.ru/index.html)) |
 | 👥 **Proven Scale** | **10,000+ active unique users** on community gaming SPA & wiki platforms ([Warpath Wiki](https://228burger228.github.io/WarpathYTwiki/)) |
-| ⚡ **Performance Benchmark** | **Lighthouse 95–100** & Green Core Web Vitals (INP, LCP, CLS) achieved through clean Vanilla JS/CSS without bloated frameworks |
+| ⚡ **Performance Benchmark** | **Мгновенная загрузка & Green Core Web Vitals** & Green Core Web Vitals (INP, LCP, CLS) achieved through clean Vanilla JS/CSS without bloated frameworks |
 | 🚀 **Production Track Record** | **17+ shipped digital products**, interactive budget calculators, and automated ATS workflows |
 | 🤝 **Duo Studio Practice** | Co-founder & Design Lead at studio **Dmitry & Dima** alongside [@Mikerrofun](https://github.com/Mikerrofun) |
 
@@ -56,7 +56,7 @@
 | Project | Business & Design Concept | Engineering Execution | Impact / Result |
 | :--- | :--- | :--- | :---: |
 | 🏢 **smr.hgstroy.ru** | **Corporate portal for construction contractor**<br/>• *Concept:* Swiss grid, high-contrast industrial aesthetic, verified visual hierarchy. | Semantic HTML5, CSS3 Grid, WebP media pipeline, sub-50ms response, zero frameworks. | 📜 **Official letter of recommendation from CEO**<br/>[Live Portal ↗](https://smr.hgstroy.ru/index.html) |
-| ⚡ **burgerportfolio 2.0** | **Flagship portfolio & interactive budget HUD**<br/>• *Concept:* Business-Premium dark glassmorphism, micro-bevels (`--edge-card`), technical blueprint aesthetic. | Reactive estimate store powered by pure JS `Proxy` (`createReactiveStore`), rAF animations, SVG HUD. | ⚡ **Lighthouse 98+**<br/>[Demo ↗](https://228burger228.github.io/burgerportfolio2.0/) • [Code ↗](https://github.com/228burger228/burgerportfolio2.0) |
+| ⚡ **burgerportfolio 2.0** | **Flagship portfolio & interactive budget HUD**<br/>• *Concept:* Business-Premium dark glassmorphism, micro-bevels (`--edge-card`), technical blueprint aesthetic. | Reactive estimate store powered by pure JS `Proxy` (`createReactiveStore`), rAF animations, SVG HUD. | ⚡ **Мгновенная загрузка**<br/>[Demo ↗](https://228burger228.github.io/burgerportfolio2.0/) • [Code ↗](https://github.com/228burger228/burgerportfolio2.0) |
 | 👥 **portfelDD** | **Duo studio portfolio & design system**<br/>• *Concept:* Minimalist executive dark theme, unified design tokens, modular presentation cards. | Vanilla JS, reactive price calculator, Schema.org semantic data, `/llms.txt` AI search standard. | 🤝 **Duo studio showcase**<br/>[Demo ↗](https://228burger228.github.io/portfelDD/) • [Code ↗](https://github.com/228burger228/portfelDD) |
 | 🎮 **Warpath Wiki** | **High-load community data hub**<br/>• *Concept:* Information-Dense UI, military cyberpunk styling, rapid unit specs comparison and filters. | Vue 3, Vite, Supabase database, zero-latency client search, asset compression. | 👥 **10,000+ active users**<br/>[Demo ↗](https://228burger228.github.io/WarpathYTwiki/) • [Code ↗](https://github.com/228burger228/WarpathYTwiki) |
 | 🧭 **Radar AI (Солянка с ложкой)** | **Curated AI knowledge base & radar**<br/>• *Concept:* High-clarity dashboard, battle-tested prompt index, architecture TL;DR summaries. | Clean HTML5/CSS3, Vanilla JS search and tags, micro-interactions, dark HUD styling. | 🧭 **Live AI hub**<br/>[Demo ↗](https://228burger228.github.io/radar/) • [Code ↗](https://github.com/228burger228/radar) |
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Vue.js_3-Vite_SPA-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js 3" />
   <img src="https://img.shields.io/badge/Three.js-WebGL_3D-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Canvas_2D-Procedural_Physics-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D" />
-  <img src="https://img.shields.io/badge/Lighthouse-95%2B_Performance-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lighthouse" />
+  <img src="https://img.shields.io/badge/Performance-Instant_Load-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lighthouse" />
 </p>
 
 #### 🤖 AI, Cloud & Backend
